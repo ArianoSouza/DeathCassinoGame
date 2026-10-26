@@ -1,0 +1,220 @@
+A BASE TA PRONTA O CALCULO TA DANDO ERRADO NAS CARTAS
+
+
+pregame -- aumenta ou diminui o valor e clica em apostar --> rooling -- jogo "roda os dados" e escolhe o valor --> counting -- compara o valor apostado com o valor somado dos dados e decide se ganhou ou não --> ending -- da o valor se ganahr --> pre game
+
+
+CREDITOS
+
+dice sprite
+https://kicked-in-teeth.itch.io/dice-roll
+
+
+font kiwi soda
+https://www.dafont.com/kiwisoda.font
+
+minecraft font
+https://www.dafont.com/minecraft.font
+
+fire asset
+https://devkidd.itch.io/pixel-fire-asset-pack
+
+modern interiors
+https://limezu.itch.io/moderninteriors
+
+1% 3.6
+
+5% 18
+
+10% 36
+
+15% 54
+
+3 partes +10 30% 3x 36
+2 partes +100 30% 2x 54
+1 parte +1000 10% 1x 36
+1 parte item1 5% 1x 18
+1 parte item2 5% 1x 18
+1 parte item3 5% 1x 18
+2 partes x2 5% 2x 3.6
+1 parte x5 3% 1x 10.8
+1 parte x10 2% 1x 7.2
+1 parte x20 1% 1x 3.6
+2 partes up 1% 2x 1x 3.6 -
+2 partes dowm 1% 2x 1x 3.6 -
+
+down  1.8
++1000 39,6
+item1  57.6
+x5 68.4
+up 72
++10 108
+x10 115.2
+item2 133,2
+x2 151,2
++100 205,2
+x5 216
+down 219,6
+x2 237,6
+up 241,2
+item3 259,2
+x20 262,8
++10 298,8
+x10 306
++10 358,2
+
+
+What's up, hommie!?
+
+Sorry, I'm trying to get along better with the youth
+
+You have no ideia of how much of you are dying this days
+
+In any case, in case you didn't notice, you dead.
+
+And I'm here to guide you to the eternity
+
+The process is kind of boring
+
+I would need to avaluate you actions, analize the balance, talk to teh authorities... urgh
+
+But, I've come with a a ideia 
+
+That can make the process way more interesting
+
+The process of, you know, you being dead
+
+Are you paying atention?
+
+I've heard lot of you are getting problems with that
+
+You shoud really get off these cellphones more offten
+
+Well, It's not like have time for that now
+
+anyways, welcome to the
+
+
+
+death casino logo
+
+
+
+Hey hey
+
+I gonna explain how the cassino works
+
+Basically we have 3 games to you to play
+
+and earn DEATHCOINS to youself
+
+yeah yeah I know, clingy
+
+DEATHCOINS are used to bet and buy itens
+
+You can bet any value you want
+
+But every game have a minimum percentage to play
+
+That growns every time you repeat a game
+
+The roullet spins and gives you prizes
+
+It can be a boring one like giving you money
+
+Or it can facilitate my job and send you directly to you destiny
+
+Be carecfull with this one
+
+
+
+next is the cards
+
+hey man, having fun?
+
+-- no
+
+Aways chaming
+
+the cards rules are much like blackjack
+
+but instead of 13 cards per suit
+
+we have 8: 1 to 5, Jack, Queen and King
+
+The 3 specials works different too
+
+Jack imitates the last value placed
+
+Queen get the half value of the last value
+
+And King doubles it
+
+we also have the jokers 
+
+their are very helpfull when you have point close to 21
+
+basically their fill the point to it
+
+Think he will win a lot?
+
+-- I coudn't care less
+
+C'mon man
+
+
+Last one is the dice
+
+Hey, can you explain the game to-
+
+-- OF COURSE MY DEAREST ADMINISTRATOR
+
+You dont have to be so-
+
+-- DEAR FRIEND, THIS GAME IS VERY HUMBLE
+
+-- YOU WAGER A VALUE AND SELECT A NUMBER 2 TO 12
+
+-- MYSELF ROLL THE DICE AND IF GETS CLOSE TO THE NUMBER YOU SELECT
+
+-- YOU GET A PRIZE
+
+Thank you, and we go-
+
+-- I HOPE YOU HAVE A VERY GREAT TIME HERE, MY FRIEND
+
+LET'S JUST GO
+
+
+Andt that's all, I think
+
+you can algo go to the store 
+
+and buy some stuff that can help
+
+Your objective here is to get enough death coins
+
+To chose where you want to go 
+
+It takes D$ 1.000.000 to do that
+
+and, the bad news
+
+if you get to D$ 0, I will have to purge your soul
+
+Like Limbo, nothing, inexistece
+
+So be careful with the bets
+
+I will be here watching
+
+giving my hot takes
+
+anyways, Good luck, and have fun!
+
+
+
+
+
+
+

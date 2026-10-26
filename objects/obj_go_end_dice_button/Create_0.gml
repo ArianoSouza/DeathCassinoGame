@@ -1,0 +1,1 @@
+image_xscale = (string_width("Finish")+(2*8))/sprite_get_width(spr_card_game_button) 

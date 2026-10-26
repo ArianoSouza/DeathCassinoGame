@@ -1,0 +1,1 @@
+b_type = GAMES.roullet
